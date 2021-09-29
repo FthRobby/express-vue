@@ -33,4 +33,4 @@ Jalankan terlebih dahulu [express.js](https://github.com/FthRobby/Express-Api) k
 
 2. Atau url [http://localhost:8080/](http://localhost:8080/), kemudian di menu navbar pilih menu posts
    
-*Aplikasi ini masih dalam tahap pengembangan....* 
+*Aplikasi ini masih dalam tahap pengembangan......* 
