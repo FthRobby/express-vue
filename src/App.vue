@@ -2,7 +2,7 @@
   <div>
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-primary">
       <div class="container">
-        <a class="navbar-brand" href="#">EXPRESS.JS + VUE.JS</a>
+        <a class="navbar-brand" href="#">CRUD Vue-Express</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
           aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -16,10 +16,7 @@
               <router-link :to="{name: 'posts.index'}" class="nav-link">POSTS</router-link>
             </li>
           </ul>
-          <form class="d-flex">
-            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-            <button class="btn btn-dark" type="submit">Search</button>
-          </form>
+          
         </div>
       </div>
     </nav>
