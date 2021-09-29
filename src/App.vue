@@ -16,7 +16,7 @@
               <router-link :to="{name: 'posts.index'}" class="nav-link">POSTS</router-link>
             </li>
           </ul>
-          
+
         </div>
       </div>
     </nav>
