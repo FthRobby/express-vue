@@ -5,17 +5,22 @@ Hasil belajar CRUD tanpa image dengan [Vue 3](https://v3.vuejs.org/guide/introdu
 
 <h1>1. Express.Js</h1> 
 Jalankan terlebih dahulu [express.js](https://github.com/FthRobby/Express-Api) karna digunakan sebagai backend dengan cara :
-  ```
-  nodemon npm start
-  ```
+
+    ```
+    nodemon npm start
+    ```
+
 
 <h1>2. Vue Js</h1>
+   
    Inisialisasi terlebih dahulu 
+   
    ```
    npm init
    ``` 
 
    Kemudian 
+   
    ```
    npm run serve
    ```
