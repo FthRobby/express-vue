@@ -9,8 +9,7 @@ Jalankan terlebih dahulu [express.js](https://github.com/FthRobby/Express-Api) k
     ```
     nodemon npm start
     ```
-
-
+    
 <h1>2. Vue Js</h1>
    
    Inisialisasi terlebih dahulu 
